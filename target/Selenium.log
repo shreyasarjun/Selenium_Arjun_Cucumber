@@ -1,0 +1,13 @@
+2018-04-21 21:29:24 [INFO ] [loginapplication] - [Initialization] Browser and URL Initialized
+2018-04-21 21:29:28 [INFO ] [loginapplication] - [click_on_Sign_in_link] Clicked on Signin Link
+2018-04-21 21:29:28 [INFO ] [loginapplication] - [enter_username_as] username entered as seleniumcucumber@gmail.com
+2018-04-21 21:29:28 [INFO ] [loginapplication] - [enter_password_as] password enetred as dummy
+2018-04-21 21:29:31 [INFO ] [loginapplication] - [click_on_Sign_In_button] Clicked on Signin Submit Button
+2018-04-21 21:29:31 [INFO ] [loginapplication] - [user_should_be_able_to_login_Able_to_see_success_message] Verifed welcome signin message as Welcome to your account. Here you can manage all of your personal information and orders.
+2018-04-21 21:29:32 [INFO ] [loginapplication] - [tear_down] Browser Closed
+2018-04-21 21:29:47 [INFO ] [loginapplication] - [Initialization] Browser and URL Initialized
+2018-04-21 21:29:50 [INFO ] [loginapplication] - [click_on_Sign_in_link] Clicked on Signin Link
+2018-04-21 21:29:51 [INFO ] [loginapplication] - [enter_username_as] username entered as dfdsfsdfdsf@gmail.com
+2018-04-21 21:29:51 [INFO ] [loginapplication] - [enter_password_as] password enetred as dfsdfd
+2018-04-21 21:29:53 [INFO ] [loginapplication] - [click_on_Sign_In_button] Clicked on Signin Submit Button
+2018-04-21 21:29:54 [INFO ] [loginapplication] - [tear_down] Browser Closed
